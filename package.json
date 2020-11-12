@@ -1,0 +1,22 @@
+{
+    "name": "qlevar-theme",
+    "displayName": "qlevar-theme",
+    "description": "Theme for Qlevar",
+    "version": "0.0.1",
+    "publisher": "Schaban-Bochi",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Qlevar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Qlevar-color-theme.json"
+            }
+        ]
+    }
+}
