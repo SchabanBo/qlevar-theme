@@ -4,6 +4,9 @@
     "description": "Theme for Qlevar",
     "version": "0.0.1",
     "publisher": "Schaban-Bochi",
+    "repository": {
+        "url": "https://github.com/SchabanBo/qlevar-theme.git"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
